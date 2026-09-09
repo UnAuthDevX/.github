@@ -61,7 +61,7 @@ We believe in:
 We’re always looking for curious builders, designers, and tinkerers.  
 Wanna collaborate or contribute? Let’s talk!
 
-📬 **Contact us:** [unauthdevx@gmail.com](mailto:unauthoriseddevelopers@gmail.com)  
+📬 **Contact us:** [unauthoriseddevelopers@gmail.com](mailto:unauthoriseddevelopers@gmail.com)  
 🌐 **GitHub Org:** [github.com/UnAuthDevX](https://github.com/UnAuthDevX)  
 🐦 **X (Twitter):** Coming soon  
 💼 **LinkedIn:** Coming soon  
